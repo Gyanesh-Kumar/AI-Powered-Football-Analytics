@@ -1,0 +1,22 @@
+# Python venv
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model & weights
+models/
+*.pt
+*.pth
+
+# Output videos / media
+output_videos/
+*.avi
+*.mp4
+*.mkv
+
+# OS files
+.DS_Store
+
