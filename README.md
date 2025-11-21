@@ -83,7 +83,7 @@ AI Powered Football Analytics/
 
 ```bash
 git clone https://github.com/Gyanesh-Kumar/AI-Powered-Football-Analytics.git
-cd AI\ Powered\ Football\ Analytics
+cd AI Powered Football Analytics
 ```
 
 ### **2. Create virtual environment**
